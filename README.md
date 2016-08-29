@@ -5,7 +5,7 @@
 <title>El primer script</title>
  
 <script type="text/javascript">
-  console.log("Hola Mundo!");
+  alert("Hola Mundo!");
 </script>
 </head>
  
